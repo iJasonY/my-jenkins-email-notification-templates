@@ -1,0 +1,10 @@
+# Jenkin Configuration
+
+# API Config
+
+# 远程的jenkins master server的url，以及port. ex: http://example.com/
+jenkins_server_url:  #<you_jenkins_server_url>
+# Jenkins用户的User Id
+user_id: #<user_id>
+# Jenkins用户的API Token
+api_token: #<api_token>
